@@ -1,0 +1,61 @@
+{
+  "event": {
+    "event_id": "convocation-2025-fcit-session-2",
+    "name": "Convocation 2025 - FCIT - Session 2",
+    "session": { "date": "2025-09-15", "venue": "Dewan Utama" }
+  },
+  "assets": {
+    "faces_dir": "data/faces/",
+    "qrcodes_dir": "data/qrcodes/"
+  },
+  "students": [
+    {
+      "student_id": "24WMR11249",
+      "name": "Phua Hong Yip",
+      "programme_code": "RDS",
+      "programme_title": "Bachelor in Data Science (Honours)",
+      "tutorial_group": "Tutorial Group 6",
+      "faculty": "Faculty of Computing And Information Technology",
+      "seat": "A12",
+      "ref_photo": "data/faces/Original/24WMR11249.png",
+      "qr_png": "data/qrcodes/24WMR11249.png",
+      "qr_payload": "24WMR11249"
+    },
+    {
+      "student_id": "24WMR08872",
+      "name": "Lee Jian Sheng",
+      "programme_code": "RDS",
+      "programme_title": "Bachelor in Data Science (Honours)",
+      "tutorial_group": "Tutorial Group 6",
+      "faculty": "Faculty of Computing And Information Technology",
+      "seat": "A13",
+      "ref_photo": "data/faces/Original/24WMR08872.png",
+      "qr_png": "data/qrcodes/24WMR08872.png",
+      "qr_payload": "24WMR08872"
+    },
+    {
+      "student_id": "24WMR08889",
+      "name": "Tan Kai Sheng",
+      "programme_code": "RDS",
+      "programme_title": "Bachelor in Data Science (Honours)",
+      "tutorial_group": "Tutorial Group 6",
+      "faculty": "Faculty of Computing And Information Technology",
+      "seat": "A14",
+      "ref_photo": "data/faces/Original/24WMR08889.png",
+      "qr_png": "data/qrcodes/24WMR08889.png",
+      "qr_payload": "24WMR08889"
+    },
+    {
+      "student_id": "24WMR08885",
+      "name": "Mok Shen Lin",
+      "programme_code": "RDS",
+      "programme_title": "Bachelor in Data Science (Honours)",
+      "tutorial_group": "Tutorial Group 6",
+      "faculty": "Faculty of Computing And Information Technology",
+      "seat": "A15",
+      "ref_photo": "data/faces/Original/24WMR08885.png",
+      "qr_png": "data/qrcodes/24WMR08885.png",
+      "qr_payload": "24WMR08885"
+    }
+  ]
+}
