@@ -1,3 +1,5 @@
+# How to run
+
 ~~ in terminal
 
 1. go to file directory
@@ -28,4 +30,7 @@ if face error C:\Users\shenl\OneDrive\Desktop\Image Preprocessing\venv\Scripts\p
 6. run again 
 
  .\venv\Scripts\streamlit.exe run src\app.py
+
+ # Preview of page (Streamlit App)
+ 
 
