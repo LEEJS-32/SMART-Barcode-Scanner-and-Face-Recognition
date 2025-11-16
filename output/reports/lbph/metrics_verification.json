@@ -1,0 +1,43 @@
+{
+  "tau_star": 80.05695922840809,
+  "eer": 0.27295046609010376,
+  "TP": 1114,
+  "FN": 419,
+  "FP": 169,
+  "TN": 451,
+  "metrics_at_tau_star": {
+    "accuracy": 0.7268927078495123,
+    "precision": 0.8682774746687452,
+    "recall_TPR": 0.7266797129810828,
+    "specificity_TNR": 0.7274193548387097,
+    "F1": 0.7911931818181818,
+    "FAR_FPR": 0.2725806451612903,
+    "FRR": 0.27332028701891714,
+    "balanced_accuracy": 0.7270495339098962
+  },
+  "roc_auc": 0.795006628369421,
+  "config": {
+    "RAW_ROOT": "..\\data\\dataset\\raw",
+    "MIN_IMGS_PER_ID": 5,
+    "SPLIT_FRAC": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    },
+    "ENROLL_K": 10,
+    "NEG_PER_ID": 20,
+    "USE_DETECTION": true,
+    "SMALL_FACE_MODE": true,
+    "FACE_SIZE": [
+      112,
+      112
+    ],
+    "GRID_XY": [
+      8,
+      8
+    ],
+    "SHRINK_FRAC": 0.1,
+    "USE_CLAHE": true,
+    "USE_SOFT_MASK": false
+  }
+}

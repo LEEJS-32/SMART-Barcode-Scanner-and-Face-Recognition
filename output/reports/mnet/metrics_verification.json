@@ -1,0 +1,20 @@
+[
+  {
+    "algo": "MobileNetV2 (verification)",
+    "calibrated_on": "val",
+    "evaluated_on": "test",
+    "N_pos": 2570,
+    "N_neg": 2570,
+    "accuracy": 0.8060311284046693,
+    "precision": 0.8003054600992745,
+    "recall_TPR": 0.8155642023346303,
+    "specificity_TNR": 0.7964980544747081,
+    "F1": 0.807862786664097,
+    "FAR_FPR": 0.20350194552529183,
+    "FRR": 0.18443579766536966,
+    "balanced_accuracy": 0.8060311284046693,
+    "roc_auc": 0.8830586382836985,
+    "eer": 0.20458937198067634,
+    "tau_star": 0.5635906457901001
+  }
+]
